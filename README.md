@@ -2,7 +2,7 @@
 
 Project files included:
 
-AVR MCU [Arduino board] firmware [C++]; Android application project [JAVA].
+AVR MCU firmware [C++]; Android application project [JAVA].
 
 Features included:
 
