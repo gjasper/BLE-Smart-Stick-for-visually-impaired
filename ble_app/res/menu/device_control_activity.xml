@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_search"
+        android:icon="@drawable/ic_action_bluetooth"
+        android:showAsAction="ifRoom|withText"
+        android:title="@string/action_bluetooth" />
+
+    <item
+        android:id="@+id/register_geofence"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/register_geofence_on_menu" />
+
+    <item
+        android:id="@+id/menu_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/menu_settings" />
+
+    <item
+        android:id="@+id/menu_item_clear_geofence_history"
+        android:title="@string/menu_item_clear_geofence_history"></item>
+
+    <item
+        android:id="@+id/store_data"
+        android:title="@string/store_data"></item>
+</menu>
